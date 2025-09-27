@@ -98,14 +98,15 @@ Edit CSS variables in `style.css`:
 
 **Styling issues** → Verify `style.css` is properly linked in `index.html`
 
-## 🖼 Screenshots
+## Website
+<img width="2529" height="1542" alt="Screenshot 2025-09-27 135311" src="https://github.com/user-attachments/assets/1847e779-95f6-4856-801d-197f9889f81d" />
+<img width="2532" height="1541" alt="Screenshot 2025-09-27 135332" src="https://github.com/user-attachments/assets/a1f1b60f-07e3-4094-8fd8-a675254d8030" />
+<img width="2501" height="1535" alt="Screenshot 2025-09-27 135350" src="https://github.com/user-attachments/assets/b9645044-ee1b-43ce-8f89-448422ff8f80" />
+<img width="2459" height="997" alt="Screenshot 2025-09-27 135406" src="https://github.com/user-attachments/assets/0f536e99-f2d0-4943-8e5b-df917dc9cca9" />
 
-*Add screenshots of your website here:*
-- Desktop view showing full layout
-- Mobile view with hamburger menu
-- Gallery carousels in action
-- Contact section with form
+
 
 ## Conclusion
 
 A clean, professional, and fully responsive fitness studio website template that combines modern design principles with smooth user interactions. Perfect for showcasing gym facilities, classes, and building client engagement through an intuitive browsing experience.
+
