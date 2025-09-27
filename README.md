@@ -110,3 +110,6 @@ Edit CSS variables in `style.css`:
 
 A clean, professional, and fully responsive fitness studio website template that combines modern design principles with smooth user interactions. Perfect for showcasing gym facilities, classes, and building client engagement through an intuitive browsing experience.
 
+Everyone can access the website from this link:  https://varunk-21.github.io/Fitness-Studio/
+
+
